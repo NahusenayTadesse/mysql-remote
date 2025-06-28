@@ -1,0 +1,1 @@
+import"../chunks/CWj6FrbW.js";import"../chunks/CzuM9pLO.js";import{f as r,a as m}from"../chunks/U4uPd_bJ.js";var p=r('<a href="/demo/lucia">lucia</a>');function f(a){var o=p();m(a,o)}export{f as component};
